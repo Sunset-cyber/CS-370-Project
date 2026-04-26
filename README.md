@@ -15,7 +15,6 @@
 # The Q-learning training function (qtrain)
 # Action selection logic (exploration vs. exploitation)
 # Training loop and performance tracking
-# What Computer Scientists Do
 
 # What do computer scientists do and why does it matter?
 # Computer scientists use computers and computer components/tools to solve real-world problems. This matters because in our modern world, more and more things are being automated and computer scientists are needed more and # more to analyze, understand, and utilize computers to this end.
